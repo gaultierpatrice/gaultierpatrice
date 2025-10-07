@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaultier | developer in training </h1>
- <ul>
-    <li>Je suis Gaultier Patrice.</li>
+ <ul align="center">
+    <li>👋 Je suis Gaultier Patrice.</li>
     <li>J'ai travaillé pendant 15 ans dans le spectacle en tant qu'ingénieur du son, et je me reconvertis actuellement dans le développement.</li>
     <li>Je vis à Nantes et je suis ouvert à des opportunités dans la région.</li>
     <li>Je me suis découvert une passion pour le développement d'applications et de pages web.</li>

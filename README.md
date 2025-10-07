@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gaultier | developer in training </h1>
+ <ul>
+    <li>Je suis Gaultier Patrice.</li>
+    <li>J'ai travaillé pendant 15 ans dans le spectacle en tant qu'ingénieur du son, et je me reconvertis actuellement dans le développement.</li>
+    <li>Je vis à Nantes et je suis ouvert à des opportunités dans la région.</li>
+    <li>Je me suis découvert une passion pour le développement d'applications et de pages web.</li>
+    <li>Actuellement apprenant à Ada Tech School Nantes, j'y étudie des langages comme JavaScript, PHP, TypeScript et Java.</li>
+    <li>Je recherche une entreprise pour poursuivre mes études en alternance à partir de septembre 2026.</li>
+    <li>Le français est ma langue maternelle. Je parle anglais couramment, j’ai des notions d’espagnol et j’apprends l’arabe par passion.</li>
+</ul>
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
@@ -19,15 +28,7 @@
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a>
-    <ul>
-        <li>Je suis Gaultier Patrice</li>
-        <li>Je suis Gaultier Patrice</li>
-        <li>Je suis Gaultier Patrice</li>
-        <li>Je suis Gaultier Patrice</li>
-        <li>Je suis Gaultier Patrice</li>
-        <li>Je suis Gaultier Patrice</li>
-    </ul>
+    </a>       
     
 
     

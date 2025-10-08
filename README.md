@@ -1,7 +1,4 @@
-# Gaultier Patrice ✨
-
 Ancien régisseur son | En reconversion vers le développement web.
-
  <ul align="center">
     <li>👋 Je suis Gaultier Patrice.</li>
     <li>🎤 J'ai travaillé pendant 15 ans dans le spectacle en tant qu'ingénieur du son, et je me reconvertis actuellement dans le développement.</li>

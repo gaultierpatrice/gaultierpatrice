@@ -75,4 +75,4 @@ Ancien régisseur son | En reconversion vers le développement web.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/gaultierpatrice)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaultierpatrice/)
-[![Site web](https://img.shields.io/badge/Site%20web-0ea5e9?logoColor=white)](https://eataround.co/)
+[![Site web (projet collaboratif)](https://img.shields.io/badge/Site%20web-0ea5e9?logoColor=white)](https://eataround.co/)

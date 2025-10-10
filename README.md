@@ -7,7 +7,7 @@ Ancien régisseur son | En reconversion vers le développement web.
     <li>🌱 Actuellement apprenant à Ada Tech School Nantes, j'y étudie des langages comme JavaScript, PHP, TypeScript et Java.</li>
     <li>🕵️‍♂️ Je recherche une entreprise pour poursuivre mes études en alternance à partir de septembre 2026.</li>
     <li>🗣 Le français est ma langue maternelle. Je parle anglais couramment, j’ai des notions d’espagnol et j’apprends l’arabe par passion.</li>
-    <li>🐶 Fun Fact: Mon premier animal de compagnie s'appelait "Ficelle"</li>
+    <li>🐶 Fun Fact: Je sais chanter et siffler en même temps!</li>
     <li>🔊 Pendant mon temps libre, je fais de la musique assistée par ordinateur, et avec cette nouvelle passion du développement, j'ai découvert le live coding et j'adore ça !</li>
 </ul>
 
